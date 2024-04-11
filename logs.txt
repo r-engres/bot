@@ -1,0 +1,1 @@
+[04-11 08:53] Failed to authenticate: 'RATELIMIT_SECONDS'
