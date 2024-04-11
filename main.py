@@ -82,7 +82,7 @@ def create_reddit_instance() -> praw.Reddit:
             client_id=os.environ["CLIENT_ID"],
             client_secret=os.environ["CLIENT_SECRET"],
             user_agent=os.environ["USER_AGENT"],
-            ratelimit_seconds=os.environ["RATELIMIT_SECONDS"],
+            ratelimit_seconds=600,
         )
 
     except Exception as e:
