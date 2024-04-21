@@ -17,7 +17,7 @@ REMOVAL_COMMENT = """
 \n\n
 ---
 \n\n
-1. Export your resume as a [**PDF file**](https://www.adobe.com/uk/acrobat/resources/google-doc-to-pdf.html)  
+1. Export your resume as a [**PDF file**](https://web.archive.org/web/20240205130059/https://www.adobe.com/uk/acrobat/resources/google-doc-to-pdf.html)  
 \n\n
 2. Convert it to a **[600 DPI](https://www.adobe.com/uk/creativecloud/photography/discover/dots-per-inch-dpi-resolution.html) PNG file** using https://www.cleverpdf.com/pdf-to-images. https://imgur.com/RxxYFQe     
 \n\n
@@ -43,7 +43,7 @@ REMOVAL_MESSAGE = """
 \n\n
 ---
 \n\n
-1. Export your resume as a [**PDF file**](https://www.adobe.com/uk/acrobat/resources/google-doc-to-pdf.html)  
+1. Export your resume as a [**PDF file**](https://web.archive.org/web/20240205130059/https://www.adobe.com/uk/acrobat/resources/google-doc-to-pdf.html)  
 \n\n
 2. Convert it to a **[600 DPI](https://www.adobe.com/uk/creativecloud/photography/discover/dots-per-inch-dpi-resolution.html) PNG file** using https://www.cleverpdf.com/pdf-to-images. https://imgur.com/RxxYFQe     
 \n\n
