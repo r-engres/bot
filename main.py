@@ -10,6 +10,9 @@ NUM_POSTS_TO_PROCESS = 10
 REMOVAL_MESSAGE_SUBJECT = "LOW IMAGE RESOLUTION"
 
 REMOVAL_COMMENT = """
+# Post Removed: Low Image Quality
+\n\n
+---
 **Hi /u/{author}, please follow the instructions below and submit a higher quality image:**  
 \n\n
 ---
