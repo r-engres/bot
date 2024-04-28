@@ -160,3 +160,4 @@
 [04-28 03:57] APPROVED, 1cf9nr7, 4961, Successful-Gain-13
 [04-28 04:18] APPROVED, 1cfa1zk, 5100, wandering_kid_2778
 [04-28 06:53] APPROVED, 1cfdt4x, 5100, LilacSky42
+[04-28 07:06] REMOVED, 1cfe5le, 897, MuchoMole101010101
