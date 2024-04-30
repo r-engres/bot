@@ -189,3 +189,4 @@
 [04-30 04:51] REMOVED, 1cgkgn4, 850, Steven_Dog
 [04-30 04:58] APPROVED, 1cgkldo, 5100, Steven_Dog
 [04-30 06:36] APPROVED, 1cgm5cg, 5100, An0nymousAE
+[04-30 08:48] REMOVED, 1cgo1wp, 612, Lost_Feeling_No_Job
