@@ -76,3 +76,4 @@
 [05-04 01:37] APPROVED, 1ck0i9v, 5100, theschiffer
 [05-04 01:42] REMOVED, 1ck0jkb, 850, Top-Stay7827
 [05-04 01:48] APPROVED, 1ck0nrf, 5100, Top-Stay7827
+[05-04 02:20] REMOVED, 1ck1efm, 827, Reasonable-Mud-2127
