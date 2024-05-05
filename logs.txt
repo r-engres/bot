@@ -90,3 +90,4 @@
 [05-04 10:52] APPROVED, 1ckcsyh, 5100, d4wny
 [05-04 10:54] REMOVED, 1ckcurp, 1700, d4wny
 [05-04 11:14] APPROVED, 1ckd0xa, 5100, SSG_Nimbus
+[05-05 01:03] REMOVED, 1ckfamm, 1454, AllDaHomiesLoveSus
