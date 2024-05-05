@@ -13,19 +13,19 @@ REMOVAL_COMMENT = """
 # Post Removed: Low Image Quality
 \n\n
 ---
-**Hi /u/{author}, please follow the instructions below and submit a higher quality image:**  
+**Hi /u/{author}, please follow the instructions below and submit a higher quality image in a new post:**  
 \n\n
 ---
 \n\n
-1. Export your resume as a [**PDF file**](https://web.archive.org/web/20240205130059/https://www.adobe.com/uk/acrobat/resources/google-doc-to-pdf.html)  
+1. Export your resume as a [**PDF file**](https://www.adobe.com/uk/acrobat/resources/google-doc-to-pdf.html).  
 \n\n
 2. Convert it to a **[600 DPI](https://www.adobe.com/uk/creativecloud/photography/discover/dots-per-inch-dpi-resolution.html) PNG file** using https://www.cleverpdf.com/pdf-to-images. https://imgur.com/RxxYFQe     
 \n\n
-3. On **[DESKTOP (NEW.REDDIT)](https://new.reddit.com/r/{sub}/submit)**, insert the PNG file into a **[text submission](https://imgur.com/8iik4YP)**  
+3. On **[DESKTOP (NEW.REDDIT)](https://new.reddit.com/r/{sub}/submit)**, insert the PNG file into a **[TEXT SUBMISSION](https://imgur.com/8iik4YP)**.  
 \n\n
 ---
 \n\n
-**Please don't:**  
+**Please do not:**  
 \n\n
 * Take a picture of your resume with your phone camera  
 \n\n
@@ -39,19 +39,19 @@ REMOVAL_COMMENT = """
 """
 
 REMOVAL_MESSAGE = """
-**please follow the instructions below and submit a higher quality image:**  
+**please follow the instructions below and submit a higher quality image in a new post:**  
 \n\n
 ---
 \n\n
-1. Export your resume as a [**PDF file**](https://web.archive.org/web/20240205130059/https://www.adobe.com/uk/acrobat/resources/google-doc-to-pdf.html)  
+1. Export your resume as a [**PDF file**](https://www.adobe.com/uk/acrobat/resources/google-doc-to-pdf.html).  
 \n\n
 2. Convert it to a **[600 DPI](https://www.adobe.com/uk/creativecloud/photography/discover/dots-per-inch-dpi-resolution.html) PNG file** using https://www.cleverpdf.com/pdf-to-images. https://imgur.com/RxxYFQe     
 \n\n
-3. On **[DESKTOP (NEW.REDDIT)](https://new.reddit.com/r/{sub}/submit)**, insert the PNG file into a **[text submission](https://imgur.com/8iik4YP)**  
+3. On **[DESKTOP (NEW.REDDIT)](https://new.reddit.com/r/{sub}/submit)**, insert the PNG file into a **[TEXT SUBMISSION](https://imgur.com/8iik4YP)**.  
 \n\n
 ---
 \n\n
-**Please don't:**  
+**Please do not:**  
 \n\n
 * Take a picture of your resume with your phone camera  
 \n\n
