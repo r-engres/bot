@@ -151,3 +151,4 @@
 [05-08 01:52] APPROVED, 1cmsy3m, 5100, MoonWhey
 [05-08 01:59] APPROVED, 1cmt1zj, 5100, haw_ming_shamuraii
 [05-08 03:34] APPROVED, 1cmuysg, 5100, indecisivegirl1106
+[05-08 04:24] REMOVED, 1cmvufe, 850, Unlucky_Ad_2368
