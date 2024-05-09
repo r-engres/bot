@@ -171,3 +171,5 @@
 [05-09 02:39] APPROVED, 1cnme1l, 5100, diegopestana
 [05-09 01:38] APPROVED, 1cnxecv, 1700, infiniteXmugen01
 [05-09 01:50] APPROVED, 1cnxpoj, 4963, InterestingConcern60
+[05-09 04:14] REMOVED, 1co124n, 850, no_4
+[05-09 04:14] REMOVED, 1co0xqo, 850, ReindeerNo3671
