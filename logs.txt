@@ -198,3 +198,4 @@
 [05-12 02:38] APPROVED, 1cpxp4w, 5100, FawltyPlay
 [05-12 03:47] APPROVED, 1cpyxya, 5100, FawltyPlay
 [05-13 02:51] UNABLE TO EXTRACT WIDTH FROM BODY TEXT, 1cqp0md, pathetique1799
+[05-13 04:34] Retrying due to ConnectTimeout(MaxRetryError("HTTPSConnectionPool(host='www.reddit.com', port=443): Max retries exceeded with url: /api/v1/access_token (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fa1276e7d10>, 'Connection to www.reddit.com timed out. (connect timeout=16.0)'))")) status: GET https://oauth.reddit.com/r/EngineeringResumes/new
