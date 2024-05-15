@@ -218,3 +218,5 @@
 [05-15 07:11] APPROVED, 1cst04r, 5100, SlapShack22
 [05-15 07:58] REMOVED, 1csu6g9, 817, Riskitall101
 [05-15 09:23] APPROVED, 1csw3ag, 5100, Riskitall101
+[05-15 09:37] REMOVED, 1cswfbp, 1700, Strange-Pool9999
+[05-15 09:37] REMOVED, 1cswf8h, 1700, Strange-Pool9999
