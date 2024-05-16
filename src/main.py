@@ -4,7 +4,6 @@ import sys
 
 import praw
 
-SUB_NAME = os.environ["SUB_NAME"]
 MIN_IMAGE_WIDTH_PX = 2550
 NUM_POSTS_TO_PROCESS = 10
 REMOVAL_MESSAGE_SUBJECT = "LOW IMAGE RESOLUTION"
@@ -118,7 +117,7 @@ def remove(submission: praw.models.Submission, image_width: int) -> None:
     )
     submission.mod.lock()
     removal_comment_with_author = REMOVAL_COMMENT.format(
-        author=submission.author, sub=SUB_NAME
+        author=submission.author, sub=submission.subreddit.name
     )
     submission.mod.send_removal_message(
         type="public_as_subreddit", message=removal_comment_with_author
@@ -162,6 +161,7 @@ def process(submission: praw.models.Submission) -> None:
 if __name__ == "__main__":
     setup_logger()
     reddit = create_reddit_instance()
+    SUB_NAME = os.environ["SUB_NAME"]
     subreddit = reddit.subreddit(SUB_NAME)
 
     for submission in subreddit.new(limit=NUM_POSTS_TO_PROCESS):
