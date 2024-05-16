@@ -117,7 +117,7 @@ def remove(submission: praw.models.Submission, image_width: int) -> None:
     )
     submission.mod.lock()
     removal_comment_with_author = REMOVAL_COMMENT.format(
-        author=submission.author, sub=SUB_NAME
+        author=submission.author, sub=submission.subreddit.name
     )
     submission.mod.send_removal_message(
         type="public_as_subreddit", message=removal_comment_with_author
