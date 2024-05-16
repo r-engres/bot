@@ -4,7 +4,6 @@ import sys
 
 import praw
 
-SUB_NAME = os.environ["SUB_NAME"]
 MIN_IMAGE_WIDTH_PX = 2550
 NUM_POSTS_TO_PROCESS = 10
 REMOVAL_MESSAGE_SUBJECT = "LOW IMAGE RESOLUTION"
@@ -161,6 +160,7 @@ def process(submission: praw.models.Submission) -> None:
 
 if __name__ == "__main__":
     setup_logger()
+    SUB_NAME = os.environ["SUB_NAME"]
     reddit = create_reddit_instance()
     subreddit = reddit.subreddit(SUB_NAME)
 
