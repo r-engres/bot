@@ -244,3 +244,5 @@
 [05-17 09:21] REMOVED, 1cughpt, 1700, Artwizard18
 [05-18 12:38] APPROVED, 1cukul1, 5100, PollyDollarHat
 [05-18 02:16] APPROVED, 1cum0fu, 5100, PollyDollarHat
+[05-18 06:50] APPROVED, 1curafm, 5100, ForwardComposer5113
+[05-18 06:50] REMOVED, 1cur9sh, 1010, Noisheee
