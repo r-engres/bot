@@ -297,3 +297,5 @@
 [05-19 11:36] APPROVED, 1cw1kqu, 5100, ForwardComposer5113
 [05-20 12:35] APPROVED, 1cw288z, 4961, NewBike3172
 [05-20 01:00] REMOVED, 1cw3b6c, 850, YungGulagGod
+[05-20 01:09] APPROVED, 1cw3gn1, 5100, YungGulagGod
+[05-20 01:09] REMOVED, 1cw3g2n, 850, myguy025
