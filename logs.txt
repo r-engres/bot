@@ -329,3 +329,5 @@
 [05-20 09:12] APPROVED, 1cwqdu7, 5100, justinmjoh
 [05-20 09:51] APPROVED, 1cwrgpa, 5100, sharpsh0t48
 [05-20 10:10] APPROVED, 1cwrrsl, 5100, SportMelodic767
+[05-20 10:24] REMOVED, 1cws9xw, 850, BoxxyPTT
+[05-20 10:24] APPROVED, 1cws242, 5100, TheBear8878
