@@ -79,7 +79,7 @@ def setup_logger() -> None:
 
 def create_reddit_instance() -> praw.Reddit:
     try:
-        reddit = praw.Reddit(
+        return praw.Reddit(
             username=os.environ["USERNAME"],
             password=os.environ["PASSWORD"],
             client_id=os.environ["CLIENT_ID"],
@@ -92,21 +92,14 @@ def create_reddit_instance() -> praw.Reddit:
         logging.error("Failed to authenticate: %s", e)
         sys.exit()
 
-    return reddit
-
 
 def extract_width(selftext: str) -> int:
     try:
         extracted_string = selftext.split("width=")[1].split("&")[0]
         width = int(extracted_string)
         return int(width)
-
-    except IndexError:
-        return -1
-
-
-def convert_to_dpi(image_width: int) -> int:
-    return round(image_width / 8.5)
+    except Exception as e:
+        raise e
 
 
 def remove(submission: praw.models.Submission, image_width: int) -> None:
@@ -143,18 +136,16 @@ def process(submission: praw.models.Submission) -> None:
     if submission.link_flair_text in {"Question", "Success Story!", "Meta"}:
         return
 
-    image_width = extract_width(submission.selftext)
-
-    if image_width == -1:
+    try:
+        image_width = extract_width(submission.selftext)
+    except Exception as e:
         logging.error(
-            "UNABLE TO EXTRACT WIDTH FROM BODY TEXT, %s, %s",
-            submission.id,
-            submission.author,
+            f"UNABLE TO EXTRACT WIDTH FROM BODY TEXT, {submission.id}, {submission.author}:\n{e}"
         )
+        return
 
-    elif image_width < MIN_IMAGE_WIDTH_PX:
+    if image_width < MIN_IMAGE_WIDTH_PX:
         remove(submission, image_width)
-
     else:
         approve(submission, image_width)
 
