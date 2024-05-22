@@ -404,3 +404,4 @@
 [05-22 08:22] APPROVED, 1cya2fe, 5100, frog_world
 [05-22 08:22] APPROVED, 1cy9z8e, 5100, Icy-Ad-7630
 [05-22 08:35] REMOVED, 1cyag9v, 2484, ProfessionalFerret26
+[05-22 08:41] REMOVED, 1cyalr7, 1160, AshamedMammoth4585
