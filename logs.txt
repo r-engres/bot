@@ -388,3 +388,4 @@
 [05-22 06:15] REMOVED, 1cxt8c1, 1061, Advanced-Response413
 [05-22 06:57] APPROVED, 1cxtzlw, 5100, Advanced-Response413
 [05-22 07:10] APPROVED, 1cxu7bi, 5100, ImTiredOfThisGramp
+[05-22 07:57] REMOVED, 1cxuvuz, 645, chonky_bubblegum
