@@ -369,3 +369,5 @@
 [05-22 01:02] REMOVED, 1cxne5a, 819, muath_kh
 [05-22 01:02] APPROVED, 1cxmyef, 5100, Thats_a_big_no
 [05-22 01:14] REMOVED, 1cxo3dl, 1086, Cute-Stable-8899
+[05-22 01:46] APPROVED, 1cxoa09, 5100, Cute-Stable-8899
+[05-22 01:46] REMOVED, 1cxo8xj, 2416, Sweet_Nuggs
