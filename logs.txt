@@ -436,3 +436,4 @@
 [05-23 09:00] APPROVED, 1cz3jtx, 5100, WubWubington
 [05-23 09:15] APPROVED, 1cz3v7e, 5100, Big_Organization_181
 [05-23 09:29] APPROVED, 1cz47rm, 5100, OtherwiseTooth7677
+[05-23 11:12] REMOVED, 1cz6c3x, 2550, No_Charity_829
