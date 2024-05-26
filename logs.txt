@@ -481,3 +481,4 @@
 [05-26 03:12] REMOVED, 1d13bhl, 850, jennydoethough
 [05-26 03:23] REMOVED, 1d13ov7, 2550, jennydoethough
 [05-26 03:29] APPROVED, 1d13tqh, 5100, jennydoethough
+[05-26 05:52] REMOVED, 1d16xye, 1018, InfernalSpectre3076
