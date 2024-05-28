@@ -515,3 +515,5 @@
 [05-28 02:03] APPROVED, 1d27jg5, 5100, WubWubington
 [05-28 02:03] APPROVED, 1d27ips, 5100, Upper-Sun-5320
 [05-28 02:03] APPROVED, 1d27ij3, 5100, ContributionHot9123
+[05-28 02:33] REMOVED, 1d28wyj, 850, Proud-Primary
+[05-28 02:33] REMOVED, 1d28mtx, 2550, Sweet_Nuggs
