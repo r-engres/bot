@@ -544,3 +544,4 @@
 [05-29 01:45] APPROVED, 1d2zz29, 5100, college_alt54
 [05-29 04:40] APPROVED, 1d33tjn, 5100, 404forlife
 [05-29 11:31] APPROVED, 1d39vfh, 4963, yan_kh
+[05-29 01:25] REMOVED, 1d3bxvg, 850, amltms
