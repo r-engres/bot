@@ -579,3 +579,5 @@
 [05-30 10:25] REMOVED, 1d4g0cu, 1149, fangpd
 [05-30 11:09] APPROVED, 1d4h00v, 5100, InfernalSpectre3076
 [05-30 11:21] REMOVED, 1d4hbnl, 1700, Cornbread5418
+[05-31 12:42] APPROVED, 1d4ivr8, 5100, Own_Cat_1293
+[05-31 12:42] REMOVED, 1d4ik0r, 850, itsaakashpatel
