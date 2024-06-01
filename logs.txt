@@ -617,3 +617,4 @@
 [06-01 05:43] APPROVED, 1d5scjw, 5100, fangpd
 [06-01 08:08] REMOVED, 1d5vnbx, 1391, superide
 [06-01 08:21] APPROVED, 1d5vst0, 4958, superide
+[06-01 08:57] REMOVED, 1d5wnzw, 881, DaMunchers_Lair
