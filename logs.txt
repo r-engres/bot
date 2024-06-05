@@ -720,3 +720,4 @@
 [06-05 01:57] APPROVED, 1d8qk27, 5100, IJustWantToSleep__
 [06-05 02:03] REMOVED, 1d8qoyh, 595, GiveMeMonayPlease
 [06-05 02:28] APPROVED, 1d8qzp1, 4961, GiveMeMonayPlease
+[06-05 02:59] REMOVED, 1d8rwwi, 1060, Medical_Dependent_55
