@@ -778,3 +778,4 @@
 [06-07 07:57] REMOVED, 1dak3sk, 1408, RandyMoss93
 [06-07 08:48] REMOVED, 1dalac1, 850, RandyMoss93
 [06-07 09:13] APPROVED, 1dalrvy, 5100, RandyMoss93
+[06-07 10:23] REMOVED, 1danb1n, 850, Lod_Ster
