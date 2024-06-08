@@ -785,3 +785,4 @@
 [06-08 04:31] APPROVED, 1dauhvt, 5100, smit0086
 [06-08 05:30] APPROVED, 1davjau, 5100, DismalYard5408
 [06-08 12:26] APPROVED, 1db1dcw, 5100, Ikutto
+[06-08 04:17] REMOVED, 1db64he, 608, Gawkies
