@@ -853,3 +853,4 @@
 [06-10 08:47] APPROVED, 1dcw477, 5100, kwasi3114
 [06-10 09:55] REMOVED, 1dcxqks, 612, Otherwise-Monk2050
 [06-10 10:07] APPROVED, 1dcxus9, 5100, Otherwise-Monk2050
+[06-10 10:11] REMOVED, 1dcy5a5, 1700, arena_one
