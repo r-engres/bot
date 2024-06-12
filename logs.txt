@@ -890,3 +890,4 @@
 [06-12 01:23] APPROVED, 1dduany, 5100, staticperkins
 [06-12 01:35] APPROVED, 1dduuvn, 5100, Brilliant_Ad_675
 [06-12 03:09] APPROVED, 1ddwm98, 5100, roadrunnrNM
+[06-12 04:06] REMOVED, 1ddxlso, 1016, RavingPlatypi
