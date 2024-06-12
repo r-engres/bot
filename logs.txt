@@ -885,3 +885,6 @@
 [06-11 08:49] APPROVED, 1ddoopc, 5100, rotioporous
 [06-11 09:20] APPROVED, 1ddpcv3, 5100, notclaytonn
 [06-12 12:33] APPROVED, 1ddt9z2, 5100, jasonbourne-jr
+[06-12 01:23] REMOVED, 1ddunh8, 850, Brilliant_Ad_675
+[06-12 01:23] REMOVED, 1dduktw, 693, HourLate2834
+[06-12 01:23] APPROVED, 1dduany, 5100, staticperkins
