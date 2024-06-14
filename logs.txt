@@ -941,3 +941,5 @@
 [06-14 08:07] APPROVED, 1dfzqmi, 5100, AJarofTomatoes
 [06-14 08:07] APPROVED, 1dfzo3w, 5100, Danney911
 [06-14 08:28] APPROVED, 1dg0g1x, 5100, ResumeThrowaway3197
+[06-14 08:41] APPROVED, 1dg0qur, 5100, snsei1
+[06-14 08:41] REMOVED, 1dg0p4y, 1700, Dahkri
