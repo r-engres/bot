@@ -943,3 +943,5 @@
 [06-14 08:28] APPROVED, 1dg0g1x, 5100, ResumeThrowaway3197
 [06-14 08:41] APPROVED, 1dg0qur, 5100, snsei1
 [06-14 08:41] REMOVED, 1dg0p4y, 1700, Dahkri
+[06-14 08:47] REMOVED, 1dg0u9r, 1084, Okarisu935
+[06-14 08:47] REMOVED, 1dg0tej, 2550, Top-Telephone7024
