@@ -938,3 +938,5 @@
 [06-14 02:35] APPROVED, 1dfs97e, 5100, coffee_swallower
 [06-14 06:28] REMOVED, 1dfxm7w, 1275, Baalazamon
 [06-14 06:34] APPROVED, 1dfxt3e, 5100, Baalazamon
+[06-14 08:07] APPROVED, 1dfzqmi, 5100, AJarofTomatoes
+[06-14 08:07] APPROVED, 1dfzo3w, 5100, Danney911
