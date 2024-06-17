@@ -995,3 +995,4 @@
 [06-17 04:42] APPROVED, 1dhpx06, 4961, Soft-Teach-9174
 [06-17 09:11] APPROVED, 1dhtloh, 5100, NotTraitor
 [06-17 01:20] REMOVED, 1dhxvhh, 2550, Pristine-Listen2794
+[06-17 01:28] REMOVED, 1dhy2at, 2550, FAKEFRIEND2
