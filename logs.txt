@@ -1034,3 +1034,4 @@
 [06-18 09:36] APPROVED, 1dj241z, 5100, rifat_monzur
 [06-19 12:24] APPROVED, 1dj5pd5, 5100, janong_24
 [06-19 01:44] REMOVED, 1dj7g2w, 850, CustomerOk4648
+[06-19 02:43] REMOVED, 1dj8nmc, 1224, throwaway_bbl_drizzy
