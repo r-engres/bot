@@ -1033,3 +1033,4 @@
 [06-18 09:29] APPROVED, 1dj1y2r, 5100, OW_Monkey
 [06-18 09:36] APPROVED, 1dj241z, 5100, rifat_monzur
 [06-19 12:24] APPROVED, 1dj5pd5, 5100, janong_24
+[06-19 01:44] REMOVED, 1dj7g2w, 850, CustomerOk4648
