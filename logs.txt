@@ -1070,3 +1070,4 @@
 [06-20 03:18] REMOVED, 1dk1tw2, 814, Deucehuncho_
 [06-20 03:18] REMOVED, 1dk1jqd, 2550, 2kfan
 [06-20 03:18] APPROVED, 1dk1jcc, 5100, uCody
+[06-20 03:22] REMOVED, 1dk1vxa, 1700, Veltarial
