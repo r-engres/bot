@@ -1183,3 +1183,4 @@
 [06-24 03:15] APPROVED, 1dnfo08, 4961, Mac_Jone
 [06-24 04:35] APPROVED, 1dnhutd, 4961, The_Highlander93
 [06-24 07:37] APPROVED, 1dnm91x, 5100, thstephens8789
+[06-24 07:43] REMOVED, 1dnmemf, 612, kaliwazzed
