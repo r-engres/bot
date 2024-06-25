@@ -1212,3 +1212,5 @@
 [06-25 07:20] APPROVED, 1doeamm, 5100, Southern_Narwhal_164
 [06-25 08:00] REMOVED, 1dof7cp, 2550, kwasi3114
 [06-25 08:06] APPROVED, 1dofd62, 5100, kwasi3114
+[06-25 08:16] REMOVED, 1dofja0, 861, Otherwise_Gate_8135
+[06-25 08:16] REMOVED, 1dofhut, 791, Sudden_Artichoke6489
