@@ -7,10 +7,10 @@ import praw
 SUB_NAME = os.environ["SUB_NAME"]
 MIN_IMAGE_WIDTH_PX = 3100
 NUM_POSTS_TO_PROCESS = 10
-REMOVAL_MESSAGE_SUBJECT = "LOW IMAGE RESOLUTION"
+REMOVAL_MESSAGE_SUBJECT = "LOW QUALITY IMAGE"
 
 REMOVAL_COMMENT = """
-# Post Removed: Low Image Quality
+# Post Removed: Low Quality Image
 \n\n
 ---
 **Hi /u/{author}, please follow the instructions below and submit a higher quality image in a new post:**  
@@ -112,7 +112,7 @@ def convert_to_dpi(image_width: int) -> int:
 def remove(submission: praw.models.Submission, image_width: int) -> None:
     submission.mod.remove(spam=False)
     submission.mod.flair(
-        text="Post Removed: Low Image Quality",
+        text="Post Removed: Low Quality Image",
         css_class="removed",
         flair_template_id="7e1d0b6c-b178-11ee-866f-b61c7ef1fdc8",
     )
